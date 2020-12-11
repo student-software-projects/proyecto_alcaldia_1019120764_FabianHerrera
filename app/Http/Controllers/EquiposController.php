@@ -25,7 +25,6 @@ class EquiposController extends Controller
     }
 
     public function guardarequipos(Request $request){
-
         $request=equipo::create($request->all());
         return redirect()->route('equipos.listar')->with([
             'message'=>'Equipo Registrado Correctamente',
@@ -45,7 +44,6 @@ class EquiposController extends Controller
             'type'=>'warning'
         ]);
     }
-
     public function eliminarequipos($id){
         $equipo=equipo::find($id)->delete();
         return redirect()->route('equipos.listar')->with([

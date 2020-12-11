@@ -39,7 +39,7 @@
         }
 
         .table-responsive {
-            background-color: rgb(33 37 41 / 83%);
+            background-color: rgb(33 37 41/ 83%);
             color: #e8e8e8;
         }
 

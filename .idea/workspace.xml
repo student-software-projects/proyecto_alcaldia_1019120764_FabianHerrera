@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="465e84e0-9fd1-4885-b573-81a212042db3" name="Default Changelist" comment="" />
+    <list default="true" id="465e84e0-9fd1-4885-b573-81a212042db3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/EquiposController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/EquiposController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +21,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -128,14 +135,16 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1kUBA6QRFIeXrcSyVZKqzYQxGMN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../template" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -162,7 +171,12 @@
       <workItem from="1606349311456" duration="5392000" />
       <workItem from="1606419248761" duration="13162000" />
       <workItem from="1606492695239" duration="5918000" />
-      <workItem from="1606499439556" duration="13724000" />
+      <workItem from="1606499439556" duration="14465000" />
+      <workItem from="1606615089600" duration="414000" />
+      <workItem from="1606615789611" duration="198000" />
+      <workItem from="1607304409024" duration="201000" />
+      <workItem from="1607307174088" duration="1717000" />
+      <workItem from="1607483937533" duration="1571000" />
     </task>
     <servers />
   </component>
@@ -178,10 +192,11 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="280" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/1920.196.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1606500805922" />
-    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1606176920177">
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1606615986525">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="280" key="FileChooserDialogImpl/-1366.160.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1606176920177" />
+    <state x="740" y="280" key="FileChooserDialogImpl/1920.196.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1606615986525" />
     <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1605756413228">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
